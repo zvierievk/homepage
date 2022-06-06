@@ -171,6 +171,17 @@ body {
     text-align: justify;
 }
 
+.timelines__header {
+    color: var(--secondary-text-color);
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.timelines__text {
+    color: var(--secondary-text-color);
+    text-align: justify;
+}
+
 /*Experience and additonal info styles*/
 .experiences {
     flex: 1 1 60%;
